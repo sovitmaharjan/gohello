@@ -5,5 +5,5 @@ import (
 )
 
 func Hello() {
-	fmt.Println("hello from hello.go")
+	fmt.Println("hello from gohello")
 }
